@@ -1,16 +1,28 @@
-### Hi there 👋
+ ### Welcome to my page 👋
 
-<!--
-**EugeneKovgan/eugenekovgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ #### 🛠 &nbsp;Tech skills
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Here are some ideas to get you started:
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/react%20-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white)
+<hr/>
+<p align='left'>
+<a href="https://github.com/eugenekovgan">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=eugenekovgan&theme=buefy&show_icons=true&count_private=true"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/eugenekovgan">
+  <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eugenekovgan&theme=buefy&show_icons=true&count_private=true"/>
+</a>
+</p>
+<hr/>
+
+#### &nbsp;Contact Information
+<a href="mailto:jugin.kovgan87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jugin.kovgan87@gmail.com-darkblue?style=flat-square&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/eugene-kovgan-b282b61b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eugene%20Kovgan%20-darkblue?style=flat-square&logo=linkedin"></a>
