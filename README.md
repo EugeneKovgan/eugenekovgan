@@ -20,8 +20,7 @@
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=eugenekovgan&theme=buefy&show_icons=true&count_private=true" height="200">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?
-username=eugenekovgan&theme=buefy&show_icons=true&count_private=true" height=200/>
-<img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eugenekovgan&theme=buefy&show_icons=true&count_private=true"/>
+username=eugenekovgan&theme=buefy&show_icons=true&count_private=true" height="200"/>
 
 ***
 #### &nbsp;Contact Information
