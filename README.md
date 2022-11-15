@@ -22,6 +22,14 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?
 username=eugenekovgan&theme=buefy&show_icons=true&count_private=true" height="200">
 
+<a href="https://github.com/eugenekovgan">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=eugenekovgan&theme=buefy&show_icons=true&count_private=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/eugenekovgan">
+  <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eugenekovgan&theme=buefy&show_icons=true&count_private=true"/>
+</a>
+
 ***
 #### &nbsp;Contact Information
 <a href="mailto:jugin.kovgan87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jugin.kovgan87@gmail.com-darkblue?style=flat-square&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/eugene-kovgan-b282b61b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eugene%20Kovgan%20-darkblue?style=flat-square&logo=linkedin"></a>
