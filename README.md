@@ -9,11 +9,11 @@
 ![gulp](https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=black)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+\
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+\
 ![React](https://img.shields.io/badge/react%20-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux%20-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 <hr/>
