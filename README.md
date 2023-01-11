@@ -1,4 +1,5 @@
  ### Welcome to my page 👋
+ uses: eugenekovgan/snk/svg-only@v2
 
  #### 🛠 &nbsp;Tech skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
