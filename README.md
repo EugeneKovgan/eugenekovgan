@@ -1,8 +1,4 @@
  ### Welcome to my page 👋
-![github contribution grid snake animation](https://raw.githubusercontent.com/eugenekovgan/eugenekovgan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/eugenekovgan/eugenekovgan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-_generated with [
-eugenekovgan/snk](https://github.com/eugenekovgan/snk)_
-
 
  #### 🛠 &nbsp;Tech skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
