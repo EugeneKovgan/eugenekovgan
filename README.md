@@ -4,7 +4,7 @@
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
-_generated with [Platane/snk](https://github.com/eugenekovgan/snk)_
+_generated with [eugenekovgane/snk](https://github.com/eugenekovgan/snk)_
 
  #### 🛠 &nbsp;Tech skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
