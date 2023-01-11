@@ -1,8 +1,10 @@
  ### Welcome to my page 👋
  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+ ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [Platane/snk](https://github.com/eugenekovgan/snk)_
 
  #### 🛠 &nbsp;Tech skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
