@@ -26,6 +26,8 @@
   <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eugenekovgan&theme=buefy&show_icons=true&count_private=true"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 <img src="https://komarev.com/ghpvc/?username=eugenekovgan&style=flat-square&color=blue" alt=""/>
 
