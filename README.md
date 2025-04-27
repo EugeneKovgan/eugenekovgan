@@ -1,5 +1,5 @@
  ### Welcome to my page 👋
- #### 🛠 &nbsp;Tech skills
+ <!-- #### 🛠 &nbsp;Tech skills
  
 <div>  
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
@@ -14,7 +14,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  </div>
+  </div> -->
   
 ***
  
