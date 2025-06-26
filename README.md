@@ -24,6 +24,9 @@
 
 ***
 https://www.codewars.com/users/EugeneKovgan/badges/micro
+<img height="20" src="https://www.codewars.com/users/EugeneKovgan/badges/micro
+" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://komarev.com/ghpvc/?username=eugenekovgan&style=flat-square&color=blue" alt=""/>
+
 <img height="20" src="https://www.codewars.com/users/rsschool_93fc4bd7750083c8/badges/micro" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://komarev.com/ghpvc/?username=eugenekovgan&style=flat-square&color=blue" alt=""/>
 
 #### &nbsp;Contact Information
